@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>More Save Slots</name>
+    <directory>more_save_slots</directory>
+    <description>Up to 9 save files in the file select menu. Requires REPENTOGON and the More Save Slots plugin.</description>
+    <version>1.0.0</version>
+    <visibility>Private</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+    <tag id="Graphics"/>
+</metadata>

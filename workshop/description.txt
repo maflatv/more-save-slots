@@ -1,0 +1,39 @@
+[h1]More Save Slots[/h1]
+Up to [b]9 save files[/b] in the file select menu, in pages of 3. Slide between pages, add more with the [b]+[/b] tab, and earn [b]Dead God[/b] and the [b]infinity banner[/b] on every page.
+
+[h1]REQUIRES REPENTOGON[/h1]
+More Save Slots is a [b]REPENTOGON plugin[/b], not a regular mod, so the Steam Workshop cannot install it by itself. This Workshop item is only a companion: it tells you in game if REPENTOGON or the plugin is missing.
+
+[h2]Install[/h2]
+[olist]
+[*] Install REPENTOGON: [url=https://repentogon.com/install.html]repentogon.com/install.html[/url]
+[*] Download [b]MoreSaveSlotsInstaller.exe[/b] from [url=https://github.com/maflatv/more-save-slots/releases]GitHub[/url] and run it. It finds your REPENTOGON folders; leave them ticked and press [b]Install[/b].
+[*] Start the game with REPENTOGON.
+[/olist]
+To remove it, run the installer again and press [b]Uninstall[/b].
+
+[h2]How to use[/h2]
+[list]
+[*] In the file select menu, press [b]Right on File 3[/b] to go to the next page, and [b]Left on File 1[/b] to go back. [b]LB / RB[/b] also change pages.
+[*] On the last page, Right on File 3 selects the [b]+[/b] tab. Confirm it to add 3 more files (up to 9).
+[*] Deleting a file works as usual, on the page you are looking at.
+[/list]
+
+[h2]Good to know[/h2]
+[list]
+[*] Files 1-3 are your normal files (in Steam Cloud if you use it). [b]Files 4-9 are stored on this PC only[/b], never in Steam Cloud, so back them up yourself.
+[*] Files 4-9 only show up while REPENTOGON and the plugin are installed. Uninstalling never deletes them: install again and they are back.
+[*] The first time the game starts with the plugin, a backup of your saves is made in [i]Documents\My Games\Binding of Isaac Repentance+\Repentogon\more_save_slots_backup[/i].
+[*] Each file keeps its own run in progress, unlocks and mod data.
+[*] REPENTOGON cannot play Online, and Repentance+ daily runs are part of Online mode. So files 4-9 come with the six Online / daily run achievements already marked (Dedication, The Marathon, Broken Modem, Play Online, Win Online, Win Online Daily). Without them Dead God could never be reached. They are written to the save only, nothing is sent to Steam.
+[*] Built for [b]REPENTOGON 1.1.3[/b]. If REPENTOGON updates to a version the plugin does not know, the plugin turns itself off (your game keeps working normally) until an update is released.
+[*] The FILE 4-9 labels are in English.
+[/list]
+
+[h2]Credits[/h2]
+[list]
+[*] Made by MaflaTV.
+[*] Built on [url=https://github.com/TeamREPENTOGON/REPENTOGON]REPENTOGON[/url] and libzhl (_Kilburn and the REPENTOGON team).
+[*] Menu art derived from The Binding of Isaac by Edmund McMillen and Nicalis.
+[*] Source code (GPL-2.0): [url=https://github.com/maflatv/more-save-slots]github.com/maflatv/more-save-slots[/url]
+[/list]

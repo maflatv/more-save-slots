@@ -1,0 +1,14 @@
+# Build output and third-party sources (REPENTOGON is cloned into build/rgon)
+build/
+bin/
+dist/
+installer/dist/
+__pycache__/
+*.pyc
+
+# Work material that is not part of the plugin
+teaser/
+workshop/proposals/
+workshop/elecciones.json
+workshop/workshop.json
+tools/elegir_publicacion.py
