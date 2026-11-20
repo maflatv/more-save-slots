@@ -2,6 +2,7 @@
 <metadata>
     <name>More Save Slots</name>
     <directory>more_save_slots</directory>
+    <id>3843111252</id>
     <description>Up to 9 save files in the file select menu. Requires REPENTOGON and the More Save Slots plugin.</description>
     <version>1.0.0</version>
     <visibility>Private</visibility>

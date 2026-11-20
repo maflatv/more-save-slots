@@ -14,7 +14,7 @@ A [REPENTOGON](https://github.com/TeamREPENTOGON/REPENTOGON) plugin for **The Bi
 
 To remove it, run the installer again and press **Uninstall**. Uninstalling never deletes saves.
 
-Optional: subscribe to the [Steam Workshop companion](https://steamcommunity.com/app/250900/workshop/) ("More Save Slots"). It shows a message in game if REPENTOGON or the plugin is missing or out of date. The Workshop cannot install the plugin itself, because REPENTOGON never loads native plugins from the `mods` folder.
+Optional: subscribe to the [Steam Workshop companion](https://steamcommunity.com/sharedfiles/filedetails/?id=3843111252) ("More Save Slots"). It shows a message in game if REPENTOGON or the plugin is missing or out of date. The Workshop cannot install the plugin itself, because REPENTOGON never loads native plugins from the `mods` folder.
 
 ### Manual install
 
