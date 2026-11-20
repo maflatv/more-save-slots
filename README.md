@@ -66,6 +66,8 @@ The plugin must be linked against the libzhl of the same REPENTOGON version it r
 - Built on [REPENTOGON](https://github.com/TeamREPENTOGON/REPENTOGON) and libzhl (_Kilburn and the REPENTOGON team).
 - Menu art derived from The Binding of Isaac by Edmund McMillen and Nicalis.
 
+☕ **Find it useful?** Support me on **[Ko-fi](https://ko-fi.com/maflatv)**. Follow me on [YouTube](https://www.youtube.com/@MaflaTV) · [Twitch](https://www.twitch.tv/maflatv) · [TikTok](https://www.tiktok.com/@maflatv) · [Instagram](https://www.instagram.com/mafla.tv/) · [GitHub](https://github.com/maflatv).
+
 ## License
 
 GPL-2.0, see [LICENSE](LICENSE). The plugin is built with headers generated from libzhl's GPL-licensed function definitions.
