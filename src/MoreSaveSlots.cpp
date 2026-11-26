@@ -1,4 +1,4 @@
-// More Save Slots 1.0.0
+// More Save Slots 1.0.1
 // Copyright (C) 2026 MaflaTV
 //
 // This program is free software; you can redistribute it and/or modify it under the terms of the
@@ -40,11 +40,11 @@
 // compiled against. With any other version the mod stays inactive (all hooks pass through) instead of
 // risking save data.
 extern "C" {
-__declspec(dllexport) const char* MoreSaveSlotsVersion = "1.0.0";
+__declspec(dllexport) const char* MoreSaveSlotsVersion = "1.0.1";
 #ifdef MSS_TEST_UNSUPPORTED  // test build: behaves as if the installed REPENTOGON were unsupported
 __declspec(dllexport) const char* MoreSaveSlotsSupportedZhl = "0.0.0";
 #else
-__declspec(dllexport) const char* MoreSaveSlotsSupportedZhl = "1.1.3";
+__declspec(dllexport) const char* MoreSaveSlotsSupportedZhl = "1.1.2g,1.1.3,1.1.3a";
 #endif
 }
 

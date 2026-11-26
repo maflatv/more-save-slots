@@ -26,7 +26,7 @@ To remove it, run the installer again and press [b]Uninstall[/b].
 [*] The first time the game starts with the plugin, a backup of your saves is made in [i]Documents\My Games\Binding of Isaac Repentance+\Repentogon\more_save_slots_backup[/i].
 [*] Each file keeps its own run in progress, unlocks and mod data.
 [*] REPENTOGON cannot play Online, and Repentance+ daily runs are part of Online mode. So files 4-9 come with the six Online / daily run achievements already marked (Dedication, The Marathon, Broken Modem, Play Online, Win Online, Win Online Daily). Without them Dead God could never be reached. They are written to the save only, nothing is sent to Steam.
-[*] Built for [b]REPENTOGON 1.1.3[/b]. If REPENTOGON updates to a version the plugin does not know, the plugin turns itself off (your game keeps working normally) until an update is released.
+[*] Works with [b]REPENTOGON 1.1.2g, 1.1.3 and 1.1.3a[/b]. If REPENTOGON updates to a version the plugin does not know, the plugin turns itself off (your game keeps working normally) until an update is released.
 [*] The FILE 4-9 labels are in English.
 [/list]
 

@@ -37,7 +37,7 @@ The menu remembers the last page used. Settings: `Repentogon/more_save_slots.ini
 - The first time the game starts with the plugin, a backup of your saves is made in `Documents\My Games\Binding of Isaac Repentance+\Repentogon\more_save_slots_backup`.
 - Each file keeps its own run in progress, unlocks and mod data.
 - REPENTOGON cannot play Online, and Repentance+ daily runs are part of Online mode, so their six achievements (Dedication, The Marathon, Broken Modem, Play Online, Win Online, Win Online Daily) could never be earned in files 4-9 and Dead God would be impossible there. The plugin marks those six in files 4-9 only, directly in the save data: nothing is sent to Steam and files 1-3 are never touched.
-- Built for **REPENTOGON 1.1.3**. If REPENTOGON updates to a version the plugin does not know, the plugin turns itself off (the game keeps working normally) until an update is released.
+- Works with **REPENTOGON 1.1.2g, 1.1.3 and 1.1.3a** (built against 1.1.3; the three share the same libzhl structures). If REPENTOGON updates to a version the plugin does not know, the plugin turns itself off (the game keeps working normally) until an update is released.
 - The FILE 4-9 labels are in English.
 
 ## How it works

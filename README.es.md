@@ -78,7 +78,7 @@ build.bat            compila bin\zhlMoreSaveSlots.dll
 build.bat instalar   además lo copia, con sus gráficos, a isaac_repentogon\Repentogon\
 ```
 
-Requisitos: Build Tools de VS 18 con MSVC x86, Windows SDK y CMake. Si falta `build\rgon\`, el script dice cómo clonar REPENTOGON en la etiqueta **1.1.3**, que es la versión instalada. El mod tiene que enlazarse contra la `libzhl` de esa misma versión.
+Requisitos: Build Tools de VS 18 con MSVC x86, Windows SDK y CMake. Si falta `build\rgon\`, el script dice cómo clonar REPENTOGON en la etiqueta **1.1.3**, contra la que se compila (1.1.2g y 1.1.3a tienen la misma libzhl). El mod tiene que enlazarse contra la `libzhl` de esa misma versión.
 
 Los gráficos (`assets/`) se generan a partir de los recursos del juego:
 
@@ -88,6 +88,6 @@ python tools\make_graphics.py <resources del juego> assets
 
 ## Límites conocidos
 
-- Solo funciona con REPENTOGON (v1.9.7.12).
+- Solo funciona con REPENTOGON (v1.9.7.12): versiones 1.1.2g, 1.1.3 y 1.1.3a (comparten las mismas estructuras de libzhl).
 - Los rótulos "FILE 4-9" solo existen en inglés.
 - "Solo local con la nube activada" está comprobado leyendo el código, no en el juego: el perfil de pruebas tiene la nube apagada a propósito.
